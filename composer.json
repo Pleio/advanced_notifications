@@ -1,5 +1,5 @@
 {
-    "name": "advanced_notifications",
+    "name": "coldtrick/advanced_notifications",
     "type": "elgg-plugin",
     "require": {
         "composer/installers": "~1.0"
